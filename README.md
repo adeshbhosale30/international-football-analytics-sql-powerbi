@@ -58,6 +58,7 @@ Three CSV files located in the `/Dataset` folder:
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 ```
+<pre>
 international-football-analytics-sql-powerbi/
 │
 ├── 📁 Dashboard
@@ -82,6 +83,7 @@ international-football-analytics-sql-powerbi/
 │      └── cleaned_data.sql
 │
 └── 📄 README.md
+</pre>
 ```
 
 ---
